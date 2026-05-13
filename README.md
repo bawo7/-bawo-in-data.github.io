@@ -1,6 +1,6 @@
 # Bawo Ogharandukun | Data & Business Intelligence Analyst
 
-<img width="800" height="800" alt="Untitled (LinkedIn Profile Picture) (3)" src="https://github.com/user-attachments/assets/c452ce6f-9e36-4028-bdbe-08a886f24d9e"align="right" width="220"/ />
+<img src="Ivie_Osoiye_Official_Photo.jpg" alt="My Profile Picture" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Turning raw business data into decisions that drive growth, retention, and revenue.
