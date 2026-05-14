@@ -1,3 +1,4 @@
+## Data & BI Analyst | Transforming raw data into business decisions
 # Bawo Ogharandukun | Data & Business Intelligence Analyst
  
 <img width="800" height="800" alt="Bawo LinkedIn Profile Picture" src="https://github.com/user-attachments/assets/567ecd8a-6e31-4a45-83c0-37175038d0b6" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;"/>
@@ -24,17 +25,27 @@ I specialize in transforming messy datasets into clear dashboards, actionable in
 <img width="994" height="597" alt="image" src="https://github.com/user-attachments/assets/0a35ad16-64de-4641-8fcf-6537d31fc07a" />
 
 
-### 🧩 Business Problem
-A telecom company was experiencing high customer churn but lacked visibility into *why customers were leaving* and which customer groups were most at risk.
+### 🎯 Business Problem
 
-### 🔍 What I Did
-- Cleaned and transformed customer data using **Python** and **Power Query**
+The telecom company was experiencing customer loss without a clear understanding of:
+- Why customers were leaving
+- Which customer groups were most at risk
+- What services or payment patterns influenced churn
+- How to proactively identify future churners
+
+  ## 🔍 What I Did
+- Built a complete end-to-end churn analysis solution using **MicrosoftSQL, Power BI, and Python**
+- Cleaned and transformed telecom customer data using **SQL** and **Power Query**
+- Created SQL views and ETL processes for structured reporting
 - Built an interactive **Power BI dashboard** to analyze:
   - Churn trends
   - Customer demographics
   - Contract types
+  - Payment methods
   - Monthly charges
-  - Customer lifetime value
+  - Customer tenure etc
+- Developed a **Random Forest Machine Learning model** in Python to predict future churners
+- Created a churn prediction dashboard to identify high-risk customers
 - Identified key churn drivers through exploratory analysis and KPI tracking
 
 ### 📈 Key Insights
@@ -49,40 +60,8 @@ The dashboard provided management with a clearer retention strategy by identifyi
 `Power BI` • `Python` • `Pandas` • `Excel` • `Power Query`
 
 🔗 [View Dashboard](https://drive.google.com/drive/folders/1rE_emq1qurfCdqdWJ2EcnUPQWDFDmHEZ?usp=drive_link)  
-💻 [View Code](your-github-project-link)
+💻 [View Code](https://drive.google.com/file/d/1SsORF_RyEv02m_7hClQ4IlwNx6A58s-p/view?usp=drive_link)
 
----
-
-# 2. Banking Performance & Customer Insights Dashboard
-### Helping Stakeholders Understand Loan, Deposit & Customer Growth Trends
-
-<img src="project2-dashboard.png" alt="Banking Dashboard Preview" width="100%" />
-
-### 🧩 Business Problem
-A financial institution needed a centralized dashboard to monitor customer growth, deposits, loans, and overall business performance across multiple KPIs.
-
-### 🔍 What I Did
-- Cleaned and modeled banking datasets in **SQL** and **Power BI**
-- Created executive-level KPI dashboards showing:
-  - Total customers
-  - Loan vs Deposit trends
-  - Year-over-year growth
-  - Customer segmentation
-  - Financial performance indicators
-- Designed the dashboard with a business-first storytelling approach for non-technical stakeholders
-
-### 📈 Key Insights
-- Deposit growth consistently outperformed loan growth
-- Certain customer segments contributed disproportionately to revenue
-- Growth patterns revealed opportunities for targeted financial products
-
-### 💡 Business Impact
-Enabled faster executive decision-making through a single source of truth for performance monitoring and customer analytics.
-
-### 🛠 Tools Used
-`Power BI` • `SQL` • `Excel` • `DAX`
-
-🔗 [View Dashboard](your-dashboard-link)  
 
 ---
 
@@ -98,7 +77,6 @@ Enabled faster executive decision-making through a single source of truth for pe
 
 ### Business Intelligence
 - Power BI
-- Tableau
 - Dashboard Design
 - Data Storytelling
 - KPI Reporting
@@ -125,15 +103,11 @@ I focus on:
 
 ---
 
-# 📬 Let’s Connect
+# 📬 Let's Connect
 
-I’m currently open to:
-- Data Analyst Internship Roles
-- BI Analyst Roles
-- Remote Data Opportunities
-- Freelance Dashboard Projects
+I’m passionate about using data to solve real business problems and create impactful dashboards that tell clear stories.
 
-If you're looking for someone who can turn complex data into clear business decisions, let’s connect.
+If you're hiring for internship, entry-level, or remote data opportunities, I’d love to connect.
 
-📧 [Send Me an Email](mailto:yourmail@email.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
+📧 [Send Me an Email](mailto:ogharandukunbawo@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/bawo-ogharandukun)
