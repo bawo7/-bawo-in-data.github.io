@@ -1,9 +1,8 @@
-## Data & BI Analyst | Transforming raw data into business decisions
-# Bawo Ogharandukun | Data & Business Intelligence Analyst
- 
+# My Portfolio
+
 <img width="800" height="800" alt="Bawo LinkedIn Profile Picture" src="https://github.com/user-attachments/assets/567ecd8a-6e31-4a45-83c0-37175038d0b6" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;"/>
 
-
+# Bawo Ogharandukun | Data & Business Intelligence Analyst
 ### Turning raw business data into decisions that drive growth, retention, and revenue.
 
 I’m a Data & BI Analyst with a background in administrative operations and business support, which gives me a practical understanding of how companies actually use data to make decisions.  
